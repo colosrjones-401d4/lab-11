@@ -1,10 +1,10 @@
-## Authentication ![Build Status](https://travis-ci.org/colosrjones-401d4/lab-11/builds/591789381)
+## Authentication ![Build Status](https://travis-ci.org/colosrjones-401d4/lab-11.svg?branch=master)
 
 ### Author: Steven Jones
 
 ### Links and Resources
 * [repo](https://github.com/colosrjones-401d4/lab-11/pull/1)
-* [travis](https://travis-ci.org/colosrjones-401d4/lab-11/builds/591789381)
+* [travis](https://travis-ci.org/colosrjones-401d4/lab-11/builds/591799452)
 * [heroku](http://heroku.com)
 
 ### Description
