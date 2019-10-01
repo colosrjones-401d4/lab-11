@@ -1,4 +1,4 @@
-## Authentication ![Build Status](https://travis-ci.org/colosrjones-401d4/lab-11.svg?branch=master)
+# Authentication ![Build Status](https://travis-ci.org/colosrjones-401d4/lab-11.svg?branch=master)
 
 ### Author: Steven Jones
 
